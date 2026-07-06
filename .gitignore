@@ -1,0 +1,12 @@
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+desktop.ini
+
+# Temp files
+*.tmp
+~$*.docx
+~$*.pptx
+3-AI-BOM/原始文档/*.pptx
